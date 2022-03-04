@@ -6,27 +6,22 @@
   <p align="center"> <a href="https://www.linkedin.com/in/muhammed-nazeer-hussaini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> </p>
-  <p align="center">  <a href="https://web.facebook.com/muhammad.n.hussaini">
-    <img src="https://https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Youtube Badge"/>
-  </a> </p>
   <p align="center"> <a href="https://twitter.com/_nazeer24">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> </p>
   
 </div>
----
-**muhammednazeer/muhammednazeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-### :Clean-Coder: &nbsp;About Me :
+### About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I good books and tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/muhammed-nazeer-hussaini/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-muhammed-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/muhammed-nazeer-hussaini/)
+
 ---
 ---
 
