@@ -3,20 +3,21 @@
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/muhammed-nazeer-hussaini/">
+  <p align="center"> <a href="https://www.linkedin.com/in/muhammed-nazeer-hussaini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://web.facebook.com/muhammad.n.hussaini">
+  </a> </p>
+  <p align="center">  <a href="https://web.facebook.com/muhammad.n.hussaini">
     <img src="https://https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/_nazeer24">
+  </a> </p>
+  <p align="center"> <a href="https://twitter.com/_nazeer24">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> </p>
+  
 </div>
 ---
 **muhammednazeer/muhammednazeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### :woman_technologist: &nbsp;About Me :
+### :Clean-Coder: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
