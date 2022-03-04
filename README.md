@@ -22,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ In my free time I good books and tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-muhammed-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/muhammed-nazeer-hussaini/)
 
----
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
