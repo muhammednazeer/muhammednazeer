@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <h1>  hey there
+   <h1>  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
@@ -28,7 +28,7 @@ I am a Full Stack Developer from Nigeria.
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring How things works.
 - ⚡ In my free time I good books and tech articles.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-muhammed-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/muhammed-nazeer-hussaini/)
+- 📫 How to reach me: ![Linkedin Badge(https://img.shields.io/badge/-muhammed-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/muhammed-nazeer-hussaini/)
 
 
 ---
