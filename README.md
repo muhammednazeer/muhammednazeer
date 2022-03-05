@@ -18,7 +18,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/U77IPoKMZUpzymdNZh/giphy.gif" width="600" height="300"/>
 </div>
 ---
 :man_technologist: About Me :
@@ -44,7 +44,6 @@ I am a Full Stack Developer from Nigeria.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin"  alt="Kotlin" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" title="Android"  alt="Android" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
