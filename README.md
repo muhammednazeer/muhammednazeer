@@ -1,61 +1,56 @@
-<div id="header" align="center">
- 
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <p align="center"> <a href="https://www.linkedin.com/in/muhammed-nazeer-hussaini/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> </p>
-  <p align="center"> <a href="https://twitter.com/_nazeer24">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> </p>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  </p>
-
-   <h1 align="center">  Hello world!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
 <div align="center">
-  <img src="https://media.giphy.com/media/U77IPoKMZUpzymdNZh/giphy.gif" width="600" height="300"/>
+
+<!-- ✨ HERO BANNER — replaces the old Giphy -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammed%20Nazeer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Nigeria%20🇳🇬&descAlignY=60&descSize=16" width="100%"/>
+
+<!-- Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nazeer-hussaini/)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_nazeer24)
+![Profile Views](https://komarev.com/ghpvc/?username=muhammednazeer&style=for-the-badge&color=0e75b6)
+
 </div>
----
-:man_technologist: About Me :
-
-I am a Full Stack Developer from Nigeria.
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring How things works.
-- ⚡ In my free time I good books and tech articles.
-- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-muhammed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nazeer-hussaini)
-
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+## 👨‍💻 About Me
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin"  alt="Kotlin" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" title="Android"  alt="Android" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
- <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+```bash
+$ whoami
+→ Full Stack Engineer building things for the web & mobile
+
+$ cat interests.txt
+→ Clean code · Scalable systems · Open source · How things work
+```
+
+- 🔭 Working as a **Software Engineer**, contributing to frontend & backend
+- 🌱 Always exploring how things work under the hood
+- ⚡ In my free time: good books & deep tech rabbit holes
+- 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/-muhammed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nazeer-hussaini)
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,postgresql,mysql,firebase,kotlin,androidstudio,git,materialui&perline=7" />
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammednazeer&theme=dark&background=000000)](https://git.io/streak-stats)
+## 🔥 My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednazeer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammednazeer&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednazeer&layout=compact&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammednazeer&show_icons=true&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
