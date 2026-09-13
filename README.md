@@ -1,55 +1,82 @@
 <div align="center">
 
-<!-- ✨ HERO BANNER — replaces the old Giphy -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammed%20Nazeer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Nigeria%20🇳🇬&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammed%20Nazeer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Nigeria%20🇳🇬&descAlignY=58&descSize=15" width="100%"/>
 
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nazeer-hussaini/)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_nazeer24)
-![Profile Views](https://komarev.com/ghpvc/?username=muhammednazeer&style=for-the-badge&color=0e75b6)
+<a href="https://www.fytrion.com" target="_blank">
+  <img src="https://img.shields.io/badge/Fytrion-Company%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/muhammed-nazeer-hussaini/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/_nazeer24" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=muhammednazeer&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-```bash
-$ whoami
-→ Full Stack Engineer building things for the web & mobile
+I'm a **Senior Software Engineer** building scalable, production-grade systems across web, mobile, and cloud — from pixel-perfect frontends to resilient backend architecture and infrastructure.
 
-$ cat interests.txt
-→ Clean code · Scalable systems · Open source · How things work
+```yaml
+role: Senior Software Engineer
+focus: Full-Stack Development · Cloud Architecture · System Design
+currently: Building at Fytrion (www.fytrion.com)
+exploring: AI/ML integrations, distributed systems, developer tooling
+fun_fact: I read documentation for fun. Yes, really.
 ```
 
-- 🔭 Working as a **Software Engineer**, contributing to frontend & backend
-- 🌱 Always exploring how things work under the hood
-- ⚡ In my free time: good books & deep tech rabbit holes
-- 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/-muhammed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-nazeer-hussaini)
+- 🔭 Currently engineering full-stack solutions spanning **frontend, backend, and cloud infrastructure**
+- 🌱 Continuously deepening expertise in **AI/ML**, distributed systems, and cloud-native architecture
+- 🤝 Open to collaborating on impactful, well-engineered products
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/muhammed-nazeer-hussaini/) or visit [Fytrion](https://www.fytrion.com)
 
----
+<br/>
 
-## 🛠 Languages & Tools
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,postgresql,mysql,firebase,kotlin,androidstudio,git,materialui&perline=7" />
+**Languages**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,go,html,css&perline=7" />
 </p>
 
----
+**Frontend & Frameworks**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,nodejs,nestjs,laravel,materialui&perline=7" />
+</p>
 
-## 🔥 My Stats
+**Backend & Databases**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,mongodb,postgresql,mysql,firebase,prisma,kotlin&perline=7" />
+</p>
+
+**Cloud, DevOps & Tools**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,linux,git,github,androidstudio&perline=7" />
+</p>
+
+**AI / ML**
+<p align="left">
+<img src="https://img.shields.io/badge/AI%2FML-1a1a2e?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammednazeer&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=muhammednazeer&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&cache_seconds=3600" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednazeer&layout=compact&theme=github_dark&hide_border=true&border_radius=10&cache_seconds=3600" width="35%" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednazeer&layout=compact&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammednazeer&show_icons=true&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=muhammednazeer&theme=github-dark-blue&hide_border=true&border_radius=10&cache_seconds=3600" width="65%"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
